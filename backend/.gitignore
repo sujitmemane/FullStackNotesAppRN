@@ -1,0 +1,36 @@
+# Dependency directories
+node_modules/
+
+# Build artifacts
+dist/
+build/
+out/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.idea/
+*.suo
+*.ntvs*
+
+# Compiled binary addons
+/build/Release
+
+# Debug files
+debug.log
+npm-debug.log
+
+# Yarn Integrity file
+.yarn-integrity
